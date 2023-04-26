@@ -66,3 +66,5 @@ swap.addEventListener("click",()=>{
     currencyEl2.value = temporaryVariable
     calculate()
 })
+
+calculate()
